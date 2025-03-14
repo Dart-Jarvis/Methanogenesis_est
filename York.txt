@@ -1,0 +1,11 @@
+Regeresson results:
+
+  Slope     =  0.087909 +/- 7.716e-05 
+  Intercept =   616.925 +/- 0.0974266 
+
+  Chi-squared =   465.48 
+  Reduced chi-squared = 465.4818 
+  Goodness of fit =    0.000 
+
+  x Centroid =   1047.6 
+  y centroid =   709.02 
